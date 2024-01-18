@@ -1,0 +1,12 @@
+@font-face {
+    font-family: norse-font;
+    src: url("fonts/Norse-Bold.otf")
+}
+.side-image {
+    display: flex;
+}
+
+.form-container {
+    display: flex;
+    justify-content: right;
+}
